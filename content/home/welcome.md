@@ -7,8 +7,8 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
+  Chengguang Xu
+  Ph.D. Candidate at Northeastern University
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +20,7 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+你好 (Hi),
+I am a Ph.D. candidate at Khoury College of Computer Sciences, Northeastern University, advised by Prof. Christopher Amato and Prof. Lawson Wong.
+
+Previously, I received my B.S. and M.S. from Nankai University (China) where I was fortunate to work with Prof. Feng Duan on computer vision and autonomous driving.
