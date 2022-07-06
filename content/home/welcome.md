@@ -7,7 +7,6 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Chengguang Xu
   Ph.D. Candidate at Northeastern University
 hero_media: welcome.jpg
 design:
